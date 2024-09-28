@@ -3,7 +3,8 @@ package codewars.TheBeginning;
 public class SecondQuestion {
 
     /* 
-        The Question ---> 
+        The Question .....   
+                    { V A P O R C O D E } --->  
           Write a function that converts any sentence into a V A P O R W A V E sentence.
           a V A P O R W A V E sentence converts all the letters into uppercase, and adds 2 spaces between each letter
           (or special character) to create this V A P O R W A V E effect.
@@ -16,7 +17,7 @@ public class SecondQuestion {
     
      */
     // ~~~~~~~~~~ My Answer ~~~~~~~~~~~ :) 
-    //     E-MohammadHasan
+    //     E-Mohammad_Hasan
     public class Solution {
 
         public static String vaporcode(String s) {

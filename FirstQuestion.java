@@ -18,8 +18,8 @@ public class FirstQuestion {
         "£" (= "\u00A3", JS, Go, Java, Scala, and Julia), "$" (C#, C++, Dart, Ruby, Clojure, Elixir, PHP, Python, Haskell, and Lua) or "¥" (Rust).
     
      */
-    // ~~~~~~~~~~ The Basic Answer ~~~~~~~~~~~ :) 
-    /*
+    // ~~~~~~~~~~ My Answer ~~~~~~~~~~~ :) 
+    
              static int newSalary;
           
           public static String bonusTime(final int salary, final boolean bonus) {
@@ -33,9 +33,9 @@ public class FirstQuestion {
         	    return "\u00A3" + finalSalary;
           }
         }
-     */
-// ~~~~~~~~~~~ This is the professional answer ~~~~~~~~~~ :) 
-    public static void main(String[] args) {
+     
+// ~~~~~~~~~~~ The professional answer ~~~~~~~~~~ :) 
+ /*   public static void main(String[] args) {
         System.out.println(bonusTime(100, true));
     }
 
@@ -46,4 +46,4 @@ public class FirstQuestion {
     }
 
 }
-
+*/
